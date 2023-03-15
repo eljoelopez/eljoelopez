@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eljoelopez
 - 👀 I’m interested in ... architecture, urban design and its possibilities with programming!
-- 🌱 I’m currently learning ... Grasshopper, and starting with C#
+- 🌱 I’m currently learning ... C#, and starting with Python
 - 💞️ I’m looking to collaborate on ... design and programming projects!
 - 📫 How to reach me ... jl@linkarkitektur.dk or LinkedIn: https://www.linkedin.com/in/eljoelopez/
 
